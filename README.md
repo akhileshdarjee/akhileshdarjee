@@ -4,6 +4,6 @@ I'm a Web Developer and loves to work with Open source technologies. You can see
 Projects that I'm working on:
 
 - [**Origin CMS**](https://github.com/akhileshdarjee/origin-cms):
-Origin CMS for Laravel 5.5 to kickstart your web applications. This admin panel comes with a wide range of tools i.e. Responsive UI, CRUD features, Login/Logout and CRUD operations activity tracker, Powerful Permission Manager, Backup Manager (Database & files both), Reports (also downloadable in multiple formats) and many more
+Origin CMS for Laravel to kickstart your web applications. This admin panel comes with a wide range of tools i.e. Responsive UI, CRUD features, Login/Logout and CRUD operations activity tracker, Powerful Permission Manager, Backup Manager (Database & files both), Reports (also downloadable in multiple formats) and many more
 - [**GigAlert**](https://github.com/akhileshdarjee/gig-alert):
 This project won 1st prize in [Mumbai Hackathon](https://mumbaihackathon.in/) 2016
